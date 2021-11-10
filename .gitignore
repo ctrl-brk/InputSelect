@@ -1,0 +1,14 @@
+obj
+bin
+.vs
+packages
+*.user
+*.nupkg
+*.dbmdl
+TestResults
+Log
+Logs
+*.dbmdl
+*.jfm
+Debug/
+Release/
